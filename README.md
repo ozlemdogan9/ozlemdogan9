@@ -2,7 +2,7 @@
 I am a Software Engineer.
 
   * 📫  I'm based in Turkey 
-  * 🚀  I'm currently working on Metisbot
+  * 🚀  I'm currently working on Linktera
   * 🌱  I’m currently learning Microservice, Image processing, Design Pattern 
   * ✉️  You can contact me at [ozzlemdogann@gmail.com](mailto:ozzlemdogann@gmail.com)
 ---
